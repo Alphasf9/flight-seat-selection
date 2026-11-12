@@ -22,6 +22,10 @@ A React + TypeScript (Vite) app where users choose the number of passengers, pic
   <img src="screenshots/mobile-summary.png" width="250" alt="Mobile summary" />
 </p>
 
+
+## Demo video
+[![Demo video](https://img.youtube.com/vi/eVfIwipTn4g/maxresdefault.jpg)](https://youtu.be/eVfIwipTn4g)
+
 ## Setup
 
 ```bash
