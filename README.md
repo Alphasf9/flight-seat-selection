@@ -2,7 +2,8 @@
 
 A React + TypeScript (Vite) app where users choose the number of passengers, pick seats on an aircraft map (two layouts), optionally choose meals, and see a live price breakdown.
 
-**Live demo:** _add your Vercel / GitHub Pages link here_
+**Live demo:** https://flight-seat-selection-one.vercel.app/
+
 
 ## Screenshots
 
