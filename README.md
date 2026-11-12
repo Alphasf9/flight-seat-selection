@@ -7,7 +7,20 @@ A React + TypeScript (Vite) app where users choose the number of passengers, pic
 
 ## Screenshots
 
-_Add screenshots or a short demo video here (desktop + mobile)._
+### Seat layout (3–2)
+![Seat map 3-2](screenshots/seat-map-3-2.png)
+
+### Assignment, meals and total
+![Assignment and summary](screenshots/assignment-summary.png)
+
+### Feedback for invalid actions
+![Invalid action](screenshots/invalid-action.png)
+
+### Mobile
+<p>
+  <img src="screenshots/mobile-passengers.png" width="250" alt="Mobile passengers" />
+  <img src="screenshots/mobile-summary.png" width="250" alt="Mobile summary" />
+</p>
 
 ## Setup
 
